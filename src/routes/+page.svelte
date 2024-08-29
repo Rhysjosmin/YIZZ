@@ -5,7 +5,7 @@
 </script>
 
 <div class="relative z-10 md:p-12 md:pt-4 md:px-24 p-8 md:h-full">
-	<h1 class="lg:text-7xl text-6xl lg:w-5/6 font-bold">
+	<h1 class="lg:text-7xl text-5xl lg:w-5/6 font-bold">
 		Elevate Your Brand with Stunning Animated Graphics
 	</h1>
 	<p class="text-xl mt-4 lg:w-1/2">
