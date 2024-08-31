@@ -3,8 +3,8 @@
 	import Nav from '../components/nav.svelte';
 </script>
 
-<body class="bg-stone-950  text-white font-rubik ">
-	<main class="   ">
+<body class="text-white bg-stone-950 font-rubik ">
+	<main class="h-screen">
     <Nav/>
 	<slot />
 	</main>
