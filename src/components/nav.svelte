@@ -2,7 +2,7 @@
 	import Close from "./icons/close.svelte";
 	import Menu from "./icons/menu.svelte";
 	import NavLinks from "./nav-links.svelte";
-    let menuOpen = true;
+    let menuOpen = false;
     
 </script>
 
